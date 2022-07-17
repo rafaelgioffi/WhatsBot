@@ -20,9 +20,9 @@ Extraia todos os arquivos/pastas mantendo a estrutura original</li>
     pip install -r requirements.txt (Windows)
     <br>
     pip3 install -r requirements.txt (Linux)</li>
-  <li>In the folder, open the file "contatos.txt" and place the list of contacts you need to send messages/media. Obey this format: +(country code)(regional code)number. Example: +5522999887766. Do not use spaces or dashes.
+  <li>In the folder, open the file "contatos.txt" and place the list of contacts you need to send messages/media. Obey this format: +(country code)(regional code)number. Example: +5522999887766. Do not use spaces, dashes, contact name or groups.
   <br>
-  Na pasta, abra o arquivo "contatos.txt" e coloque a lista de contatos que você precisa para enviar mensagens/mídia. Obedeça esse formato: +<código do país><código regional>número. Exemplo: +5522999887766. Não use espaços nem traços.</li>
+  Na pasta, abra o arquivo "contatos.txt" e coloque a lista de contatos que você precisa para enviar mensagens/mídia. Obedeça esse formato: +<código do país><código regional>número. Exemplo: +5522999887766. Não use espaços, traços, nomes de contatos ou grupos.</li>
     <li>Adjust your preferences in file "CONFIGURAÇÕES.txt"
   <br>
   Ajuste suas preferências no arquivo "CONFIGURAÇÕES.txt"</li>
