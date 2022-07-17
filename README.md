@@ -29,6 +29,9 @@ Extraia todos os arquivos/pastas mantendo a estrutura original</li>
     <li>If you send image/video, put your image/video in folder "img" with exact name "imagem". Example: imagem.jpeg
       <br>
     Se enviar imagem/vídeo, coloque sua imagem/vídeo na pasta "img" com o nome exato "imagem". Exemplo: imagem.jpeg</li>
+<li>If you send only message or message with media, fill The file "MENSAGENS.txt". If don't send message, The file can stay empty. 
+<br>
+Se você enviar apenas mensagem ou mensagem com mídia, preencha o arquivo "MENSAGENS.txt". Se não enviar nenhuma mensagem, o arquivo pode ficar vazio.</li>
 <li>Open dist/WhatsBot.exe file and wait full processing. WhatsApp tab close automatic if configured
 <br>
 Abra o arquivo dist/WhatsBot.exe e aguarde o processamento total. A aba do WhatsApp será fechada automaticamente se estiver configurado</li>
